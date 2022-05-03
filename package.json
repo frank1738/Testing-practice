@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing-practice",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank1738/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frank1738/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/frank1738/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  },
+  "type": "module"
+
+}
